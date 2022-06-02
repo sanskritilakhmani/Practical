@@ -1,0 +1,51 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    
+  }
+  body{
+    background-image: url(https://img.freepik.com/free-vector/pastel-vector-dull-pastel-abstract-textured-background_53876-110546.jpg?w=2000);
+  }
+  h1{
+    color:white;
+    background-color: purple;
+    padding:10px;
+    border-radius: 10px;
+  }
+  h2{
+    color:blue;
+    
+  }
+  
+  ul li{
+    padding: 10px;
+   font-size: 25px;
+   color:green;
+  }
+  h3{
+    border-bottom: 2px solid gray;
+    color:blueviolet;
+    padding: 10px;
+    font-size:20px;
+  }
+  .Container{
+    display: flex;
+    justify-content: space-around;
+   
+  }
+  
+  .personalSkills{
+    width:30%;
+    height:400px;
+    border:3px solid purple;
+  }
+  .professionalSkills{
+    width:30%;
+    height:400px;
+    border:3px solid purple;
+  }
+  .hobbies{
+    width:30%;
+    height:400px;
+    border:3px solid purple;
+  }
